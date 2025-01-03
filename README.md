@@ -1,5 +1,5 @@
 # V.O.I.L.A 😁
-Visualisation Organisée Interactive de Listes d' Approfondissement
+Visualisation Organisée Interactive de Listes d' Approfondissement <br>
 [Rejoindre le discord](https://discord.gg/ZCyTjvSfQK)
 
 ## Description 📜🖋
