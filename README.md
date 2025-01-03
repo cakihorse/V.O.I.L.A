@@ -30,6 +30,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, 
 
 - Fork ce dépôt.
 - Créez une nouvelle branche (git checkout -b feature/ma-fonctionnalite).
+- **Lancez un fine-tunning** pour avoir le bon modèle. Dans le cas contraire, veillez à mettre ce modèle de résumé : ```facebook/bart-large-cnn```
 - Faites vos modifications et committez (git commit -am 'FEATURE: Personalisation de la police d'écriture.').
 - Poussez la branche (git push origin feature/ma-fonctionnalite).
 - Ouvrez une Pull Request.
