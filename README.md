@@ -19,20 +19,27 @@ Le projet utilise un modèle de langage finement ajusté (BART) pour résumer le
    git clone https://github.com/cakihorse/V.O.I.L.A.git
 
 ## Technologies utilisées 👨‍💻
-- Python 3.x
-- Transformers (Hugging Face) : Pour l’utilisation du modèle BART et le fine-tuning.
+- Python 3.x (en l'occurence 3.12)
+- Transformers (Hugging Face) : Pour l’utilisation du modèle BART et le fine-tuning. (spécialisation de l'IA)
 - Pandas : Pour la gestion des données CSV.
 - ReportLab : Pour la génération de fichiers PDF.
-- Tkinter : Pour l'interface utilisateur (si implémentée).
-- Contribuer
-- Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, suivez ces étapes :
+- CustomTkinter : Pour l'interface utilisateur.
 
 ## Contribuer 🆕
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, suivez ces étapes :
 
 - Fork ce dépôt.
 - Créez une nouvelle branche (git checkout -b feature/ma-fonctionnalite).
-- Faites vos modifications et committez (git commit -am 'Ajoute une fonctionnalité').
+- Faites vos modifications et committez (git commit -am 'FEATURE: Personalisation de la police d'écriture.').
 - Poussez la branche (git push origin feature/ma-fonctionnalite).
 - Ouvrez une Pull Request.
 
+### Formatage des commits 🧐
+Pour un projet plus clair, il est demander aux développeurs souhaitant contribuer au projet de respecter les différents formatages de commits ci-dessous. Il est égamement demandé à ce que les badges de PR soient respectés. Merci par avance.  
+
+- **Ajout d'une fonctionnalité :** ```git commit -am 'FEATURE: courte description'```
+- **Correction d'un bug :** ```git commit -am 'FIX: courte description'```
+- **Correction typographique :** ```git commit -am 'TYPO: courte description'```
+- **Autre :** ```git commit -am 'OTHER: courte description'```
+
+ 
