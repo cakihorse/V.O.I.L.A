@@ -1,5 +1,6 @@
 # V.O.I.L.A 😁
 Visualisation Organisée Interactive de Listes d' Approfondissement
+[Rejoindre le discord](https://discord.gg/ZCyTjvSfQK)
 
 ## Description 📜🖋
 Ce projet Python permet de générer des fiches de révision sous forme de fichiers PDF à partir de cours (entrés manuellement par l'utilisateur). 
