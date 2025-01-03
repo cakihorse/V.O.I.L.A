@@ -18,3 +18,21 @@ Le projet utilise un modèle de langage finement ajusté (BART) pour résumer le
    ```bash
    git clone https://github.com/cakihorse/V.O.I.L.A.git
 
+## Technologies utilisées 👨‍💻
+- Python 3.x
+- Transformers (Hugging Face) : Pour l’utilisation du modèle BART et le fine-tuning.
+- Pandas : Pour la gestion des données CSV.
+- ReportLab : Pour la génération de fichiers PDF.
+- Tkinter : Pour l'interface utilisateur (si implémentée).
+- Contribuer
+- Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, suivez ces étapes :
+
+## Contribuer
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, suivez ces étapes :
+
+- Fork ce dépôt.
+- Créez une nouvelle branche (git checkout -b feature/ma-fonctionnalite).
+- Faites vos modifications et committez (git commit -am 'Ajoute une fonctionnalité').
+- Poussez la branche (git push origin feature/ma-fonctionnalite).
+- Ouvrez une Pull Request.
+
