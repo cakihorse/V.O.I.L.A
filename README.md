@@ -27,7 +27,7 @@ Le projet utilise un modèle de langage finement ajusté (BART) pour résumer le
 - Contribuer
 - Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, suivez ces étapes :
 
-## Contribuer
+## Contribuer 🆕
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, suivez ces étapes :
 
 - Fork ce dépôt.
