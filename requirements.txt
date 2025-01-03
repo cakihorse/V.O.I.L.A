@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+transformers==4.47.1
+torch==2.2.0
+evaluate==0.4.1
+datasets==2.18.0
