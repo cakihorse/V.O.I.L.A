@@ -16,5 +16,5 @@ Le projet utilise un modèle de langage finement ajusté (BART) pour résumer le
 ## Installation ⬇
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/fiche-de-revision.git
+   git clone https://github.com/cakihorse/V.O.I.L.A.git
 
