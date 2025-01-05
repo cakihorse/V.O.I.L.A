@@ -14,6 +14,11 @@ Le projet utilise un modèle de langage finement ajusté (BART) pour résumer le
 - **Personnalisation** : Trois styles prédéfinis de fiches, avec possibilité d'extension.
 - **Format CSV** : Importez des cours sous format CSV pour le fine-tuning du modèle BART.
 
+### Distribution 💻
+Vous l'avez surrement remarqué, pour le moment, cette application est uniquement disponible sous forme logiciel et l'ia fonctionne sur le pc de l'utilisateur. Mauleheureusement, cette solution n'est pas viable pour de la distribution grand public. En effet, un ordinateur vieux mais fonctionnel risquerait de ne pas faire fonctionner correctement l'IA de VOILA. Pour ce faire, les prochaines versions incluront un serveur. Grâce à une API le client discutera avec le serveur, ainsi, VOILA devrait pouvoir être utilisée sur un site internet (react ou js) et une application mobile (java ou flutter) en plus du client pc (python).
+Pour retrouver le code de chaque client et serveur, changez de branche. 
+**Si vous souhaitez aider, vous êtes les bienvenus !**
+
 ## Installation ⬇
 1. Clonez ce dépôt sur votre machine :
    ```bash
