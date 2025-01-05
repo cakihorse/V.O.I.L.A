@@ -28,7 +28,7 @@ Pour retrouver le code de chaque client et serveur, changez de branche.
 - Python 3.x (en l'occurence 3.12)
 - Transformers (Hugging Face) : Pour l’utilisation du modèle BART et le fine-tuning. (spécialisation de l'IA)
 - Pandas : Pour la gestion des données CSV.
-- ReportLab : Pour la génération de fichiers PDF.
+- FPDF2 : Pour la génération de fichiers PDF.
 - CustomTkinter : Pour l'interface utilisateur.
 
 ## Contribuer 🆕
